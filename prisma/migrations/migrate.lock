@@ -1,0 +1,6 @@
+# Prisma Migrate lockfile v1
+
+20200811150956-create-faqand-car
+20200812100413-ganti-tipe-data-create-date
+20200812140039-perubahan-ke-sqlite
+20200813073910-change-back-to-postgres
